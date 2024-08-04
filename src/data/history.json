@@ -1,0 +1,21 @@
+[
+    {
+      "role": "Data Science Intern",
+      "organisation": "Coding Samurai",
+      "startDate": "May, 2024",
+      "endDate": "June,2024",
+      "experiences": ["Built ML models for data analysis and prediction, boosting decision-making.",
+    "Performed data analysis and visualization to reveal insights and trends."],
+      "imageSrc": "history/codingsamurai.jpg"
+    },
+    {
+      "role": "UI Designer / Front-End Developer",
+      "organisation": "Freelancer",
+      "startDate": "Aug, 2021",
+      "endDate": "Present",
+      "experiences": ["Designed and developed responsive web interfaces, enhancing user experience and engagement.",
+      "Collaborated with clients to translate requirements into visually appealing and functional designs."],
+      "imageSrc": "history/freelancer.jpg"
+    }
+  ]
+  

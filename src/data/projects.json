@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Movie Recommendation System",
+      "imageSrc": "projects/MovieR.png",
+      "description": "Developed a recommendation system using ML.",
+      "skills": ["Python", "Streamlit", "Scikit-Learn","Pandas","Numpy"],
+      "demo": "https://huggingface.co/spaces/kingclasher/Movie-Recommender",
+      "source": "https://huggingface.co/spaces/kingclasher/Movie-Recommender/tree/main"
+    },
+    {
+      "title": "Whatsapp-chat-Analyzer",
+      "imageSrc": "projects/watsapp.png",
+      "description": "Analyzed WhatsApp chat data for patterns, sentiment, and activity trends.",
+      "skills": ["Python", "NLP", "Pandas", "Matplotlib"],
+      "demo": "https://www.example.com",
+      "source": "https://huggingface.co/spaces/kirandeep/Whatsapp-Chat-Analyzer/tree/main"
+    },
+    {
+      "title": " Medical Chatbot",
+      "imageSrc": "projects/medibot.jpg",
+      "description": "Built a medical chatbot integrating Python with Flask and LangChain for NLP.",
+      "skills": ["Python", "Flask", "LangChain", "NLP"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/kiran94486/End-to-End-Medical-Chatbot"
+    }
+  ]
+  
